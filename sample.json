@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Paul Sawers",
+      "title": "Threads, a Slack alternative completely unrelated to Instagram, has seen downloads surge",
+      "description": "Instagram's Threads might enjoyed a fruitful first week, but a completely unrelated app of the same name has also benefitted. Sort of.",
+      "url": "https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/ThreadsLogo-e1689418227539.jpg?resize=1200,673",
+      "publishedAt": "2023-07-15T12:21:31Z",
+      "content": "Instagram’s Twitter clone Threads enjoyed a fairly fruitful first week in existence, sailing past 30 million users in the first 24 hours before passing 100 million signups within five days. And just … [+4060 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Morgan Sung",
+      "title": "Colleen Ballinger's toxic gossip train won't stop chugging on",
+      "description": "Colleen Ballinger's ukelele apology video is one of the most memorable, if not the worst, in YouTube history.",
+      "url": "https://techcrunch.com/2023/07/14/colleen-ballinger-ukelele-apology-video-explained-toxic-gossip-train/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-107443868.jpg?resize=1200,784",
+      "publishedAt": "2023-07-14T22:34:32Z",
+      "content": "The YouTuber apology video is an art form. A penitent creator must be remorseful, but not theatrical. Concise, but not rehearsed. Honest, but not defensive. Above all, an apology video cannot be meme… [+19107 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alyssa Stringer",
+      "title": "This week in robotics: Amazon’s iRobot deal hits an EU snag as new funding keeps hot drone summer rolling",
+      "description": "One of the biggest deals in the robotics industry is undergoing intense regulatory review in the EU, and everything else you need to know from the past week in robotics.",
+      "url": "https://techcrunch.com/2023/07/15/this-week-in-robotics-amazons-irobot-deal-hits-an-eu-snag-as-new-funding-keeps-hot-drone-summer-rolling/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/irobot-logo.jpeg?w=1200",
+      "publishedAt": "2023-07-14T21:27:09Z",
+      "content": "This week brought in good news for the robotics space in the form of new investment for nascent companies, but two established players within the space hit a snag. Amazons potential $1.7 billion acqu… [+2535 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Taylor Hatmaker",
+      "title": "First Amendment org challenges restrictions on TikTok at Texas universities",
+      "description": "The TikTok ban only affects government devices and those tied to state funding, but a new lawsuits challenges those restrictions.",
+      "url": "https://techcrunch.com/2023/07/14/texas-tiktok-lawsuit-knight-institute-abbott/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1235382328.jpg?w=1024",
+      "publishedAt": "2023-07-14T21:12:32Z",
+      "content": "Through a new lawsuit, a free speech group and research coalition that studies technology’s effect on society are pushing back against a ban on TikTok affecting government devices in the state of Tex… [+2290 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "David Spreng",
+      "title": "All money is not created equal: What raising venture debt looks like",
+      "description": "Everything I’ve outlined should take an estimated 4-5 weeks from our first phone call. That puts it at Week 6 for a signed term sheet.",
+      "url": "https://techcrunch.com/2023/07/14/not-all-money-is-created-equal-what-raising-venture-debt-looks-like/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-83077324.jpg?resize=1200,901",
+      "publishedAt": "2023-07-14T18:59:51Z",
+      "content": "The first step in the process of raising venture debt is a quick, introductory filtering phone call between you and the potential lender thats an equal amount selling and listening on both sides.\r\nTh… [+5825 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Harri Weber",
+      "title": "Designers sue Shein over AI ripoffs of their work",
+      "description": "A group of designers are suing Shein, the Chinese fast-fashion firm, for allegedly using AI to steal artists' works \"over and over again.\"",
+      "url": "https://techcrunch.com/2023/07/14/designers-sue-shein-over-ai-ripoffs-of-their-work/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1129009719.jpg?resize=1200,798",
+      "publishedAt": "2023-07-14T17:52:04Z",
+      "content": "A group of designers are suing Shein, the Chinese fast-fashion firm reportedly valued at $66 billion, for allegedly stealing independent artists’ works “over and over again, as part of a long and con… [+1631 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Aisha Malik",
+      "title": "Reddit is killing its Gold awards system",
+      "description": "Reddit is sunsetting its coins and awards system, but promises that it's working on a new, simpler rewards system.",
+      "url": "https://techcrunch.com/2023/07/14/reddit-is-killing-its-gold-awards-system/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/reddit.jpg?resize=1200,800",
+      "publishedAt": "2023-07-14T17:46:08Z",
+      "content": "After triggering protests over its API changes, Reddit is making another change that is angering its users, as the company announced that it’s sunsetting its coins and awards system. Although the pla… [+2646 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Walter Thompson",
+      "title": "TechCrunch+ roundup: SaaS sales toughlove, cybersecurity survey, 'the new venture normal'",
+      "description": "My high school football team won a few state championships, but sportswriters never asked how much ground we lost to penalties.",
+      "url": "https://techcrunch.com/2023/07/14/techcrunch-roundup-saas-sales-toughlove-cybersecurity-survey-the-new-venture-normal/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1155003455.jpg?resize=1200,675",
+      "publishedAt": "2023-07-14T17:02:49Z",
+      "content": "I kept the statistics for my high school’s football team.\r\nAfter each game, I shared the numbers with local sportswriters, who were always impressed with the number of rushing and passing yards we ac… [+4384 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alex Wilhelm",
+      "title": "8 reasons why the venture capital market isn't as miserable as you think",
+      "description": "There's good reason to believe that the massive correction in venture capital activity that we've seen over the past six quarters has run its course.",
+      "url": "https://techcrunch.com/2023/07/14/venture-capital-is-doing-better/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1431116960.jpg?resize=1200,800",
+      "publishedAt": "2023-07-14T16:45:14Z",
+      "content": "Did the global venture capital market bottom out in the first quarter of this year? The second?\r\nThere’s good reason to believe that the massive correction in venture capital activity that we’ve seen… [+1668 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Haje Jan Kamps",
+      "title": "Startups, be careful who you sell to",
+      "description": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday. As a photographer, the saga of Amazon buying Digital Photo Review (DPReview among friends) before slowly grinding it into the ground and then suddenly announcing they were closing …",
+      "url": "https://techcrunch.com/2023/07/14/startups-be-careful-who-you-sell-to/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/journaling-app.jpg?resize=1200,645",
+      "publishedAt": "2023-07-14T00:07:15Z",
+      "content": "Welcome to Startups Weekly. Sign up here to get it in your inbox every Friday.\r\nAs a photographer, the saga of Amazon buying Digital Photo Review (DPReview among friends) before slowly grinding it in… [+6998 chars]"
+    }
+  ]
+}
